@@ -4,7 +4,7 @@ The project focuses on writing a website describing the BMI index along with a c
 
 ----------------------------------------
 
-**Technologies used to test the project**
+**Technologies used in the project**
 - HTML
 - CSS
 - JavaScript
