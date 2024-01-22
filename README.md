@@ -11,7 +11,7 @@ The project focuses on writing a website describing the BMI index along with a c
 
 ----------------------------------------
 
-**Features of the page*
+**Features of the page**
 
 - Browsing available BMI information
 - Calculating BMI using height and weight
